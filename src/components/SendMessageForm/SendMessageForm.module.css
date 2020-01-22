@@ -1,0 +1,16 @@
+.container {
+  padding: 20px;
+  border-top: 1px black solid;
+  margin-bottom: 20px;
+}
+.form {
+  display: flex;
+}
+.input {
+  color: inherit;
+  background: none;
+  outline: none;
+  border: none;
+  flex: 1;
+  font-size: 16px;
+}
